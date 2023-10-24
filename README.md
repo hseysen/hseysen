@@ -7,9 +7,10 @@
 
 <!-- About -->
 - 🧠 I am a curious person and an excellent self-learner.
-- 📚 I currently study Process Automation Engineering at [Baku Higher Oil School](https://bhos.edu.az/).
+- 🎓 I have a Bachelor's in Process Automation Engineering at [Baku Higher Oil School](https://bhos.edu.az/).
+- 📚 I currently study Informatics and Control in Technical Systems at [Baku Higher Oil School](https://bhos.edu.az/).
 - 👨🏻‍💻 I am working at [Synapline](https://www.linkedin.com/company/synapline/) as an `AI Software Engineer`.
-- 🎯 I currently focus on sharpening my skills and learn new things.
+- 🎯 I currently focus on sharpening my skills and learning new things.
 - 🤩 I hope my repositories serve their purpose.
 
 <br>
