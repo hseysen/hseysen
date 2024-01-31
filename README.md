@@ -11,6 +11,7 @@
 - 📚 I currently study Informatics and Control in Technical Systems at [Baku Higher Oil School](https://bhos.edu.az/).
 - 👨🏻‍💻 I am working at [Synapline](https://www.linkedin.com/company/synapline/) as an `AI Software Engineer`.
 - 🎯 I currently focus on sharpening my skills and learning new things.
+- 📺 I make videos on [YouTube](https://www.youtube.com/channel/UC9V66IyJFFmsYmN6QDT63xw).
 - 🤩 I hope my repositories serve their purpose.
 
 <br>
